@@ -1,0 +1,56 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0%;
+}
+h1 {
+  font-size: 50px;
+}
+.namehighlight {
+  color: brown;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 1%;
+}
+.half-width img {
+  width: 100%;
+}
+
+.top-banner {
+  background-image: url(developer-portfolio/top-banner.png);
+  background-repeat: no-repeat;
+}
+
+section {
+  height: 500px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: seagreen;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: 700;
+  background-image: linear-gradient(45deg, green, lightgreen);
+}
+p {
+  color: darkkhaki;
+}
+.dreamBig {
+  background-image: url(developer-portfolio/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.single-experience {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  height: 60%;
+  padding: 20px;
+}
+.last-section {
+  background-image: url(developer-portfolio/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
